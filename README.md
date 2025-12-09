@@ -68,7 +68,6 @@ Full-stack engineer & DevRel building with modern open-source backend tools. Foc
     <td width="50%" valign="top" style="padding:10px;">
       <h3 align="center">📦 Supabase Auth + Storage Template</h3>
       <a href="https://github.com/SamRome1/supabase-auth-storage-template" target="_blank">
-         <img src="https://images.freepik.com/free-vector/modern-website-dashboard-template_23-2149153920.jpg" width="100%" />
       </a>
       <br><br>
       <p>
@@ -83,7 +82,6 @@ Full-stack engineer & DevRel building with modern open-source backend tools. Foc
     <td width="50%" valign="top" style="padding:10px;">
       <h3 align="center">📊 Supabase Dashboard Template</h3>
       <a href="https://github.com/SamRome1/supabase-dashboard-template" target="_blank">
-        <img src="https://via.placeholder.com/480x270?text=Supabase+Dashboard+Template" width="100%" />
       </a>
       <br><br>
       <p>
