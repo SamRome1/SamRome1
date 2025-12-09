@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sam Rome                                                
 
-  My name's SA=am and I currently live in Oregon.
+  My name's Sam and I currently live in Oregon.
 🔭 I’m a software engineer with a background in C.S - Data Science.
 🌱 I’m passionate about full stack web development, and educational websites and applications.
 🎥 I enjoy making technical content on Youtube, Instagram, Twitter, TikTok, LinkedIn and Reddit.
