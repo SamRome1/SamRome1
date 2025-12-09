@@ -55,7 +55,7 @@ Full-stack engineer & DevRel building with modern open-source backend tools. Foc
       </a>
       <br><br>
       <p>
-        <a href="https://github.com/SamRome1/exercise-library-video-demo(ai coding demo)" target="_blank">
+        <a href="https://github.com/SamRome1/exercise-library-video-demo" target="_blank">
           <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
         </a>
       </p>
