@@ -1,8 +1,4 @@
-## Hi there 👋 I'm Sam Rome
-
-<!--
-**SamRome1/SamRome1** is a ✨Hi there , I'm Leah Thompson
-                                                           
+## Hi there 👋 I'm Sam Rome                                                
 
   My name's SA=am and I currently live in Oregon.
 🔭 I’m a software engineer with a background in C.S - Data Science.
