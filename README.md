@@ -1,8 +1,11 @@
-<h1 align="center">Sam Rome</h1>
-
 <p align="center">
-  Developer Relations Engineer at <a href="https://supabase.com">Supabase</a>.<br/>
-  I build open-source templates, tools, and videos for developers shipping on Postgres and AI.
+  <a href="https://samrome.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamRome1/SamRome1/main/assets/banner-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamRome1/SamRome1/main/assets/banner-light.png">
+      <img alt="Sam Rome, Developer Relations Engineer at Supabase" src="https://raw.githubusercontent.com/SamRome1/SamRome1/main/assets/banner-light.png" width="1200">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
@@ -14,16 +17,16 @@
 
 <br/>
 
-### Building
+### Tools
 
+- **[rls-guard](https://github.com/SamRome1/rls-guard)** – A linter and GitHub Action for Postgres Row Level Security. Catches tables with RLS off, `USING (true)` policies, and anon writes before they ship.
+- **[schema-to-skill](https://github.com/SamRome1/schema-to-skill)** – Turns a live Postgres schema into a `SKILL.md`, `AGENTS.md` section, or Cursor rule so AI coding agents stop hallucinating columns. Supabase-aware.
+- **[dictionary-of-postgres](https://github.com/SamRome1/dictionary-of-postgres)** – Postgres jargon, explained in plain English. 117 terms with how it works, why it matters, and SQL examples.
 - **[devrel-skills](https://github.com/SamRome1/devrel-skills)** – Shared library of Claude Code skills for DevRel teams. Browse on GitHub, install with one command.
-- **[rls-video-demo](https://github.com/SamRome1/rls-video-demo)** – Why client-side filters are not security. A minimal Row Level Security demo with policy SQL and `EXPLAIN ANALYZE`.
-- **[Remotion-DevRel-Assests](https://github.com/SamRome1/Remotion-DevRel-Assests)** – Motion-graphics compositions behind Supabase launch videos, built in Remotion.
-- **[SocialMediaManager](https://github.com/SamRome1/SocialMediaManager)** – AI-powered social audit and content simulator. Next.js, Supabase, Claude, Apify.
 
 ### Starter templates
 
-Production-shaped Supabase starters with auth, RLS, and Storage wired up:
+Supabase starters with auth, Row Level Security, and Storage wired up:
 
 | Template | Stack |
 | --- | --- |
@@ -32,7 +35,8 @@ Production-shaped Supabase starters with auth, RLS, and Storage wired up:
 | [supabase-expo-mobile-template](https://github.com/SamRome1/supabase-expo-mobile-template) | Expo · Auth · camera uploads · Storage |
 | [supabase-dashboard-template](https://github.com/SamRome1/supabase-dashboard-template) | Next.js · per-user CRUD · RLS |
 
-### Elsewhere
+### Video
 
-Short and long-form technical videos for Supabase on YouTube, X, Instagram, TikTok, and LinkedIn.
+Short and long-form technical videos for Supabase on YouTube, X, Instagram, TikTok, and LinkedIn. The motion graphics behind them live in [Remotion-DevRel-Assests](https://github.com/SamRome1/Remotion-DevRel-Assests).
+
 Background in computer science and data science. Based in Oregon.
