@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://samrome.dev">samrome.dev</a> ·
   <a href="https://x.com/SamuelRome97104">X</a> ·
-  <a href="https://www.youtube.com/@supabase">YouTube</a> ·
+  <a href="https://www.youtube.com/@samuel-rome">YouTube</a> ·
   <a href="https://www.linkedin.com/in/samuel-rome">LinkedIn</a>
 </p>
 
