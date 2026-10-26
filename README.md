@@ -17,6 +17,10 @@
 
 <br/>
 
+### At Supabase
+
+- **[Supabase Knowledge Base](https://supabase.com/kb)** – In-depth guides, troubleshooting, and best-practice explainers for building on Supabase. I was one of the first to spot that we needed a dedicated knowledge base, and helped shape what it became.
+
 ### Tools
 
 - **[rls-guard](https://github.com/SamRome1/rls-guard)** – A linter and GitHub Action for Postgres Row Level Security. Catches tables with RLS off, `USING (true)` policies, and anon writes before they ship.
