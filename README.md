@@ -19,7 +19,7 @@
 
 ### At Supabase
 
-- **[Supabase Knowledge Base](https://supabase.com/kb)** – In-depth guides, troubleshooting, and best-practice explainers for building on Supabase. I was one of the first to spot that we needed a dedicated knowledge base, and helped shape what it became.
+- **[Supabase Knowledge Base](https://supabase.com/kb)** – In-depth guides, troubleshooting, and best-practice explainers for building on Supabase. Helped shape what it became.
 
 ### Tools
 
