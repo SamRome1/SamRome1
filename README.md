@@ -41,6 +41,6 @@ Supabase starters with auth, Row Level Security, and Storage wired up:
 
 ### Video
 
-Short and long-form technical videos for Supabase on YouTube, X, Instagram, TikTok, and LinkedIn. The motion graphics behind them live in [Remotion-DevRel-Assests](https://github.com/SamRome1/Remotion-DevRel-Assests).
+Short and long-form technical videos for Supabase on YouTube, X, Instagram, TikTok, and LinkedIn. The motion graphics behind them live in [Remotion-DevRel-Assets](https://github.com/SamRome1/Remotion-DevRel-Assets).
 
 Background in computer science and data science. Based in Oregon.
