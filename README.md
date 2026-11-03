@@ -1,10 +1,6 @@
 <p align="center">
   <a href="https://samrome.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamRome1/SamRome1/main/assets/banner-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamRome1/SamRome1/main/assets/banner-light.png">
-      <img alt="Sam Rome, Developer Relations Engineer at Supabase" src="https://raw.githubusercontent.com/SamRome1/SamRome1/main/assets/banner-light.png" width="1200">
-    </picture>
+    <img alt="samrome.dev: I build tools, skills and videos for developers" src="https://raw.githubusercontent.com/SamRome1/SamRome1/main/assets/banner.png" width="800">
   </a>
 </p>
 
@@ -15,32 +11,19 @@
   <a href="https://www.linkedin.com/in/samuel-rome">LinkedIn</a>
 </p>
 
-<br/>
+### Featured
 
-### At Supabase
-
-- **[Supabase Knowledge Base](https://supabase.com/kb)** – In-depth guides, troubleshooting, and best-practice explainers for building on Supabase. Helped shape what it became.
-
-### Tools
-
-- **[rls-guard](https://github.com/SamRome1/rls-guard)** – A linter and GitHub Action for Postgres Row Level Security. Catches tables with RLS off, `USING (true)` policies, and anon writes before they ship.
-- **[schema-to-skill](https://github.com/SamRome1/schema-to-skill)** – Turns a live Postgres schema into a `SKILL.md`, `AGENTS.md` section, or Cursor rule so AI coding agents stop hallucinating columns. Supabase-aware.
-- **[dictionary-of-postgres](https://github.com/SamRome1/dictionary-of-postgres)** – Postgres jargon, explained in plain English. 117 terms with how it works, why it matters, and SQL examples.
-- **[devrel-skills](https://github.com/SamRome1/devrel-skills)** – Shared library of Claude Code skills for DevRel teams. Browse on GitHub, install with one command.
-
-### Starter templates
-
-Supabase starters with auth, Row Level Security, and Storage wired up:
-
-| Template | Stack |
+| Repo | What it does |
 | --- | --- |
-| [supabase-realtime-chat-template](https://github.com/SamRome1/supabase-realtime-chat-template) | Next.js · Realtime · Presence · RLS |
-| [supabase-auth-storage-template](https://github.com/SamRome1/supabase-auth-storage-template) | Next.js · Auth · Storage · public feed |
-| [supabase-expo-mobile-template](https://github.com/SamRome1/supabase-expo-mobile-template) | Expo · Auth · camera uploads · Storage |
-| [supabase-dashboard-template](https://github.com/SamRome1/supabase-dashboard-template) | Next.js · per-user CRUD · RLS |
+| **[devrel-skills](https://github.com/SamRome1/devrel-skills)** | Claude Code skills for DevRels and engineers: hooks, scripts, demos, launches, and fact-checking. |
+| **[schema-to-skill](https://github.com/SamRome1/schema-to-skill)** | Turns a Postgres schema into a `SKILL.md`, `AGENTS.md`, or Cursor rule so agents stop hallucinating columns. |
+| **[rls-guard](https://github.com/SamRome1/rls-guard)** | A linter and GitHub Action for Postgres Row Level Security. |
+| **[dictionary-of-postgres](https://github.com/SamRome1/dictionary-of-postgres)** | 117 Postgres terms in plain English, with SQL examples. |
+| **[soundlift](https://github.com/SamRome1/soundlift)** | Paste a YouTube link, get every song and sound effect back as a playlist. |
 
-### Video
+### More
 
-Short and long-form technical videos for Supabase on YouTube, X, Instagram, TikTok, and LinkedIn. The motion graphics behind them live in [Remotion-DevRel-Assets](https://github.com/SamRome1/Remotion-DevRel-Assets).
+- **Starter templates:** [chat](https://github.com/SamRome1/supabase-realtime-chat-template) · [auth + storage](https://github.com/SamRome1/supabase-auth-storage-template) · [dashboard](https://github.com/SamRome1/supabase-dashboard-template) · [Expo mobile](https://github.com/SamRome1/supabase-expo-mobile-template)
+- **Video:** motion graphics for [Supabase](https://supabase.com) DevRel in [Remotion-DevRel-Assets](https://github.com/SamRome1/Remotion-DevRel-Assets)
 
-Background in computer science and data science. Based in Oregon.
+DevRel Engineer at Supabase. Based in Oregon.
